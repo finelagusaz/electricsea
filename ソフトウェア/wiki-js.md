@@ -1,5 +1,9 @@
 <!-- TITLE: Wiki Js -->
 <!-- SUBTITLE: Markdownが使えるWiki -->
 
-# Wiki.js
+# 概要
+
 - node.js上で動作するWki。
+- Markdownで書ける。
+- Google IDやMicrosoftアカウントでログインできる。
+- Gitのリモートリポジトリと同期ができる。
