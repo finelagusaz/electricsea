@@ -1,4 +1,4 @@
-<!-- TITLE: Wiki Js -->
+<!-- TITLE: Wiki.js -->
 <!-- SUBTITLE: Markdownが使えるWiki -->
 
 # 概要
